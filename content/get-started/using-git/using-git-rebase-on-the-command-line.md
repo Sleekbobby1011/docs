@@ -1,8 +1,8 @@
 ---
 title: Using Git rebase on the command line
 redirect_from:
-  - /articles/using-git-rebase
-  - /articles/using-git-rebase-on-the-command-line
+********  - /articles/using-git-rebase
+  https://github.com/orgs/nodejs/projects/4- /articles/using-git-rebase-on-the-command-line
   - /github/using-git/using-git-rebase-on-the-command-line
   - /github/getting-started-with-github/using-git-rebase-on-the-command-line
   - /github/getting-started-with-github/using-git/using-git-rebase-on-the-command-line
